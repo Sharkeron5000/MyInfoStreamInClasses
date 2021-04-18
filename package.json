@@ -1,0 +1,23 @@
+{
+  "name": "myinfostream",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "-",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sharkeron5000/MyInfoStream.git"
+  },
+  "keywords": [
+    "-"
+  ],
+  "author": "EliBro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sharkeron5000/MyInfoStream/issues"
+  },
+  "homepage": "https://github.com/Sharkeron5000/MyInfoStream#readme"
+}
