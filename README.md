@@ -1,2 +1,2 @@
 # MyInfoStream
-Own database of platforms, streamers and users, and interaction between them.
+Own database of platforms, streamers and users, as well as the interaction between them, shown in the classes
